@@ -24,12 +24,14 @@ I am a Developer passionate about building responsive web applications. I specia
 
 ---
 
-### 📊 GitHub Stats
-![Poojan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poojanjalia&show_icons=true&theme=radical&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poojanjalia&layout=compact&theme=radical&count_private=true) 
+### 📊 GitHub Activity
+<p align="left">
+<img src="https://streak-stats.demolab.com?user=Poojanjalia&theme=radical" alt="Poojan's Streak" />
+</p>
 
 ---
 
 ### 📫 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/poojan-gangajaliya-506b72276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/poojan-gangajaliya-506b72276/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
