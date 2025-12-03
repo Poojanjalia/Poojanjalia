@@ -1,4 +1,4 @@
-# Hi there, I'm Poojan Gangajalia! 👋
+# Hi there, I'm Poojan Gangajaliya! 👋
 
 I am a Developer passionate about building responsive web applications. I specialize in the frontend with **Angular** and have experience building backend services using **C# and .NET Web API**.
 
@@ -25,10 +25,8 @@ I am a Developer passionate about building responsive web applications. I specia
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poojanjalia&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojanjalia&layout=compact&theme=radical" height="180" alt="languages graph" />
-</div>
+![Poojan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poojanjalia&show_icons=true&theme=radical&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Poojanjalia&layout=compact&theme=radical&count_private=true) 
+
 ---
 
 ### 📫 Connect with me
