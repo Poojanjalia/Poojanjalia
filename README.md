@@ -1,4 +1,4 @@
-# Hi there, I'm Poojan Gangajaliya! 👋
+# Hi there, I'm Poojan Gangajalia! 👋
 
 I am a Developer passionate about building responsive web applications. I specialize in the frontend with **Angular** and have experience building backend services using **C# and .NET Web API**.
 
@@ -12,31 +12,23 @@ I am a Developer passionate about building responsive web applications. I specia
 
 ### 🛠️ Languages and Tools
 <p align="left"> 
-  <!-- Angular -->
   <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a> 
-  <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <!-- C# -->
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <!-- .NET / .NET Core -->
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/> </a>
-  <!-- JavaScript -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <!-- HTML & CSS -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poojanjalia&show_icons=true&theme=radical" alt="Poojan's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojanjalia&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Poojanjalia&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poojanjalia&layout=compact&theme=radical" height="180" alt="languages graph" />
+</div>
 ---
 
 ### 📫 Connect with me
